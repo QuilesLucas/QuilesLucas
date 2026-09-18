@@ -1,16 +1,52 @@
-## Hi there 👋
+# Esto es un titulo de nivel 1
+## Esto es un titulo de nivel 2
+### Esto es un titulo de nivel 3
+#### Esto es un titulo de nivel 4
+##### Esto es un titulo de nivel 5
+###### Esto es un titulo de nivel 6
 
-<!--
-**QuilesLucas/QuilesLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Si quereis escribir texto llano, simplemente lo escribis
 
-Here are some ideas to get you started:
+Esto es una letra **gruesa**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Esto es una letra *cursiva*
+
+Lista de la compra
+- Manzanas
+- Peras
+- Platanos
+- Fresas
+
+Las listas no guiadas se pueden hacer con guiones o asteriscos
+
+* Salmón
+* Atún
+* Lubina
+* Mero
+
+Y en listas guiadas en las que el orden si tenga importancia
+
+1. Ducho
+2. Visto
+3. Desayuno
+4. Salgo de casa
+
+José Vicente siempre dice:
+> "A programar, se aprende programando"
+
+En este curso aprenderemos la etiqueta `<html>`
+
+En python si queremos imprimir algo lo hacemos con
+```
+print ("hola)
+```
+
+Mi web de empresa es [jocarsa](https://jocarsa.com)
+
+Mi web personal es [web personal](https://josevicentecarratala.com)
+
+|Slot|Jueves|Viernes|
+|--|--------|-------|
+|1 |        |Marcas |
+|2 |        |Marcas |
+|3 | Marcas |       |
