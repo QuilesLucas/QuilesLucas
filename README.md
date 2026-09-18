@@ -14,7 +14,7 @@ Entre mis mayores intereses destacaria:
 
 Estoy aprendiendo a utilizar python, esta es la prueba para imprimir algo:
 ```
-Print ("buenas)
+Print (Hola, me llamo Lucas y esta es mi primera vez escribiendo codigo en Python)
 ```
 
 ---
