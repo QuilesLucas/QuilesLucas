@@ -1,52 +1,25 @@
-# Esto es un titulo de nivel 1
-## Esto es un titulo de nivel 2
-### Esto es un titulo de nivel 3
-#### Esto es un titulo de nivel 4
-##### Esto es un titulo de nivel 5
-###### Esto es un titulo de nivel 6
+# Lucas Quiles Rubio
 
-Si quereis escribir texto llano, simplemente lo escribis
+He venido a CEAC a hacer este curso porque me interesa todo el mundo de la informática, y en concreto el campo de redes, que es lo que yo he estudiado en mi instituto [IES Vall d'alba](https://portal.edu.gva.es/iesvalldalba/), concretamente el grado de SMR que significa **sistemas microinformáticos en red**.
 
-Esto es una letra **gruesa**
+---
+Entre mis mayores intereses destacaria:
 
-Esto es una letra *cursiva*
+- Deporte
+- Informatica
+- Videojuegos
+- Musica
+- Cerveza
 
-Lista de la compra
-- Manzanas
-- Peras
-- Platanos
-- Fresas
 
-Las listas no guiadas se pueden hacer con guiones o asteriscos
-
-* Salmón
-* Atún
-* Lubina
-* Mero
-
-Y en listas guiadas en las que el orden si tenga importancia
-
-1. Ducho
-2. Visto
-3. Desayuno
-4. Salgo de casa
-
-José Vicente siempre dice:
-> "A programar, se aprende programando"
-
-En este curso aprenderemos la etiqueta `<html>`
-
-En python si queremos imprimir algo lo hacemos con
+Estoy aprendiendo a utilizar python, esta es la prueba para imprimir algo:
 ```
-print ("hola)
+Print ("buenas)
 ```
 
-Mi web de empresa es [jocarsa](https://jocarsa.com)
+---
+Como bien antes he dicho, me gusta el deporte; a contiuacion voy a hacer una tabla con mi rutina semanal:
 
-Mi web personal es [web personal](https://josevicentecarratala.com)
-
-|Slot|Jueves|Viernes|
-|--|--------|-------|
-|1 |        |Marcas |
-|2 |        |Marcas |
-|3 | Marcas |       |
+|Lunes|Martes|Miercoles|Jueves|Viernes|
+|-----|------|---------|------|-------|
+|Brazo|Pecho y espalda|Pierna|Brazo|Pecho y espalda|
