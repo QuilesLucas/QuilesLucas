@@ -1,0 +1,13 @@
+{
+	"datos_personales":{
+  	"nombre":"Lucas",
+    "apellidos":"Quiles Rubio",
+    "email":{
+    	
+    }
+  },
+  "experiencia_profesional":{},
+  "formacion":{},
+  "idiomas":"",
+  "hobbies":""
+}
