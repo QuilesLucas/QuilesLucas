@@ -1,11 +1,8 @@
 {
-	"datos_personales":{
-  	"nombre":"Lucas",
-    "apellidos":"Quiles Rubio",
-    "email":"lucasquilesrubio@gmail.com"
-  },
-  "experiencia_profesional":{},
-  "formacion":{},
-  "idiomas":"",
-  "hobbies":""
+	"nombre":"Lucas",
+		"apellidos":"Quiles Rubio",
+	"email":"lucasquilesrubio@gmail.com",
+	"telefono":688827301",
+	"formacion":"Educacion obligatoria secundaria",
+	"experiencia":"Practicas de empresa de grado medio"
 }
