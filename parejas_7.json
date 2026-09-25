@@ -1,0 +1,15 @@
+{
+	"datos_personales":{
+  	"nombre":"Lucas",
+    "apellidos":"Quiles Rubio",
+    "email":{
+    	"empresa":"lucas.quiles.rubio@alu.ceacfp.es",
+		"personal":"lucasquilesrubio@gmail.com",
+		"personal_2":"luquilru@gmail.com"
+    }
+  },
+  "experiencia_profesional":{},
+  "formacion":{},
+  "idiomas":"",
+  "hobbies":""
+}
