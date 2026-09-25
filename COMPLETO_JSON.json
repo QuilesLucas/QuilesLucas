@@ -1,0 +1,48 @@
+{
+	"datos_personales"{
+		"nombre":"Lucas",
+		"apellidos":"Quiles Rubio",
+		"email":{
+			"empresa":"lucas.quiles.rubio@alu.ceacfp.es",
+			"personal":"lucasquilesrubio@gmail.com",
+			"personal_2":"luquilru@gmail.com"
+			}
+		},
+		
+		"experiencia_profesional":
+	
+		{
+			"empresa":"Hospital General Castelló",
+			"puesto":"mantenimiento del servicio de red del hospital y ayuda y asistencia",
+			"inicio":"2024-03",
+			"final":"2024-06"
+		}
+		"formacion":[
+		{
+			"centro":"SES Borriol & IES Vall d'Alba",
+			"titulacion":"Educacion secundaria obligatoria",
+			"inicio":"2018-09",
+			"final":"2022-06"
+		},
+		{
+			"centro":"IES Vall d'Alba",
+			"titulacion":"Grado Medio de Sistema microinformatico y redes",
+			"inicio":"2022-09",
+			"final":"2024-06"
+		},
+		{
+			"centro":
+			{
+				"2023":"SKILLS - Academia de inglés en Castellon",
+				"2024":"Native English Academy"
+			},
+					
+			"titulacion":"Titulo Nivel B2 Ingles en la EOI (escuela oficial de idiomas)",
+			"inicio":"2022-09",
+			"final":"2024-06"
+		}
+	],
+	
+		"idiomas":"Ingles","Valenciano","Castellano",
+		"hobbies":""
+}
